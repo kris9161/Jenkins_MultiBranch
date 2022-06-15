@@ -2,7 +2,11 @@ New changes done by developer
 
 some more changes dondddddddeddd
 
-new changes are made...
+changes 
+are 
+now removed and 
+some are
+added
 
 cccccc
 
